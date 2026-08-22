@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://RayDR.github.io/notes-7iru07/sitemap.xml
